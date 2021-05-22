@@ -10,5 +10,5 @@
 
 
 1. GitHub - https://github.com/hsafiya/week2-challenge
-2. WebPage -
+2. WebPage - https://hsafiya.github.io/week2-challenge/
 3. ![GitHub Logo](/img/screenshot.png)
