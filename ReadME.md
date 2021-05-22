@@ -8,4 +8,4 @@
 
 1. GitHub -
 2. WebPage -
-3. ![GitHub Logo](/img/screenshot of website.png)
+3. ![GitHub Logo](/img/screenshot.png)
